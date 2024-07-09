@@ -1,0 +1,17 @@
+llama-index 
+llama-index-llms-huggingface
+llama-index-embeddings-huggingface
+transformers
+accelerate
+bitsandbytes
+llama-index-readers-web
+flash-attn
+langchain
+playwright 
+sentence_transformers 
+faiss-gpu
+torch 
+datasets
+peft 
+trl
+langchain-community
