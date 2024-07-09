@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## Pipeline
 
-![RAG System]("RAG Pipeline.png)
+![RAG System](RAG_Pipeline.png)
 
 1) Cleaning & Preparation
 * Removed all the rows (based on their existance in the description columns) with missing values.
